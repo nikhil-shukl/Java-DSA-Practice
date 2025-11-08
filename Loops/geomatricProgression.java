@@ -14,5 +14,7 @@ public class geomatricProgression {
             System.out.print(a+" ");
             a*=2;
         }
+        
+        sc.close();
     }
 }

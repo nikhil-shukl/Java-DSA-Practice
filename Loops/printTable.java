@@ -11,5 +11,6 @@ public class printTable {
         for(int i=n;i<=(n*10);i+=n){
              System.out.print(i+" ");
         }
+        sc.close();
    }
 }

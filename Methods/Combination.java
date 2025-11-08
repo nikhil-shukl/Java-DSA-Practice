@@ -25,6 +25,8 @@ public class Combination {
 
          int nCr = nFact / (rFact * n_rFact);
          System.out.println("Combination of given n and r is: "+nCr);
+
+         sc.close();
     }
 }
 

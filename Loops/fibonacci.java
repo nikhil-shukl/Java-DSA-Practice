@@ -30,5 +30,7 @@ public class fibonacci {
             a = b;
             b = next;
         } 
+
+        sc.close();
     }
 }

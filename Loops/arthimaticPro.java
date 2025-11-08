@@ -19,6 +19,8 @@ public class arthimaticPro {
         // for(int i=1;i<=2*n-1;i+=2){
         //    System.out.print(i+" ");
         // }
+
+        sc.close();
     }
 }
 

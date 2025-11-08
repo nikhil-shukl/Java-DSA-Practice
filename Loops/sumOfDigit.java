@@ -16,5 +16,7 @@ public class sumOfDigit {
             n = n/10;
         }
         System.out.println(b);
+
+        sc.close();
     }
 }

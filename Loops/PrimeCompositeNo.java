@@ -24,5 +24,7 @@ public class PrimeCompositeNo {
             System.out.println("prime number");
          
         }
+
+        sc.close();
     }
 }

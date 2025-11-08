@@ -13,5 +13,7 @@ public class divisiblebyFiveorThree {
                  System.out.print(i+" ");
             }
         }
+
+        sc.close();
     }
 }

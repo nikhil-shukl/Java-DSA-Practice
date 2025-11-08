@@ -19,7 +19,7 @@ public class builtInMethodsPartTwo {
         //   String a = "abcikh";
         //   String b = "abc";
 
-        String a = "ABC";
+       String a = "ABC";
        String b = "abc";   // if different subtract by using ascii value
        
        System.out.println(a.compareTo(b));

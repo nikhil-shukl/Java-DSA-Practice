@@ -14,5 +14,7 @@ public class calculateDigit {
             i++;
         }
         System.out.println(i);
+
+        sc.close();
     }
 }

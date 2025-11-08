@@ -14,5 +14,7 @@ public class findGreatNo {
         int pre = Math.max(a,b);
         int max = Math.max(pre,c);
         System.out.println(max);
+
+        sc.close();
     }
 }

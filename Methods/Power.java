@@ -12,6 +12,7 @@ public class Power {
         
         System.out.println(Math.pow(a,b));
         
+        sc.close();
     }
     
 }
