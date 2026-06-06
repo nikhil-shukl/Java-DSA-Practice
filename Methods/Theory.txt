@@ -1,0 +1,42 @@
+
+Function
+A function is a reusable block of code that performs a specific task.
+It helps reduce code duplication and makes programs easier to manage.
+
+Method
+A method is a function that is defined inside a Java class.
+Methods are used to organize code and perform specific operations.
+
+void
+The void keyword means a method does not return any value.
+The method performs its task and finishes without sending anything back.
+
+return
+The return statement sends a value back to the method caller.
+It immediately stops the execution of the method.
+
+Parameters
+Parameters are variables declared in the method definition.
+They receive values when the method is called.
+
+Arguments
+Arguments are the actual values passed to a method.
+These values are assigned to the method's parameters.
+
+Pass By Value
+Java always uses Pass By Value.
+A copy of the value is passed to the method, not the original variable.
+
+Scope
+Scope defines where a variable can be accessed in a program.
+A variable can only be used inside the area where it is declared.
+
+Shadowing
+Shadowing occurs when a local variable has the same name as a class variable.
+The local variable hides the class variable within its scope.
+
+Varargs (...)
+Varargs allow a method to accept any number of arguments.
+It is useful when the number of inputs is not fixed.
+
+
