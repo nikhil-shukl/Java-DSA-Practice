@@ -49,8 +49,15 @@ public class practiceArr {
                 max = arr[i];
             }
         }
+        
+        int secondMax = -2;
+        for (int i = 0; i < arr.length; i++){
+            if(arr[i] < max && secondMax < arr[i] ){
+                secondMax = arr[i];
+            }
+        }
 
-        System.out.println("greatest value: "+max);
+        System.out.println("greatest value: "+max+" Second greastest value: "+secondMax);
     }
 
     static void mulAndadd(int[] arr){
