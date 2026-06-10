@@ -13,7 +13,7 @@ public class rotateArrayKstep {
         k = k % n; // to handle if k > n
 
         int[] rotated = new int[n];
-
+    
         // Rotation using extra array
         for (int i = 0; i < n; i++) {
             rotated[(i + k) % n] = arr[i];
