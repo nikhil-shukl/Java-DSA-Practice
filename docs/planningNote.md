@@ -1,5 +1,6 @@
 remaining in hashmap
  question = Highest Occurring Element in an Array
+quickSort and mergeSort code write 
 
 
  1. Idea / Pattern
