@@ -1,6 +1,9 @@
 remaining in hashmap
  question = Highest Occurring Element in an Array
 quickSort and mergeSort code write 
+understand by striver vedio = Sort an array of 0's 1's and 2's   
+
+assinment question = Count subarrays with given sum
 
 
  1. Idea / Pattern
