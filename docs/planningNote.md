@@ -1,15 +1,14 @@
 remaining in hashmap
  question = Highest Occurring Element in an Array
 quickSort and mergeSort code write 
-understand by striver vedio = Sort an array of 0's 1's and 2's   
+notes active re call previous question and one solve 
+
+notes related = during notes of write TC notes with striver vedio = Longest Consecutive Sequence in an Array
+also hashset and arraylist concept java see you written arraylist in your notes or not 
+hash, hashmap, hashSet through basic question practice
 
 assinment question = Count subarrays with given sum
 
 
- 1. Idea / Pattern
-2. Approach
-3. Pseudocode
-4. Code
-5. Time Complexity
-6. Space Complexity
-7. Stable / Unstable
+from july 13 start after two sum 
+Print the matrix in spiral manner notes and study remainings
