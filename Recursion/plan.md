@@ -22,3 +22,7 @@ Palindrome Partitioning → partitioning ⭐
 Word Search → grid backtracking ⭐
 N-Queen → constraint backtracking ⭐
 Sudoku Solver → advanced constraint backtracking ⭐
+
+
+
+combinations in leetcode good problem for loop then in recurision pattern
